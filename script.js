@@ -8,7 +8,7 @@
     const CONFIG = Object.freeze({
 
         pixelId:
-            '3344202292428181',
+            '1746714973297764',
 
         telegramUrl:
             'https://t.me/+-VfdkDpsOT9mNGQ1',
